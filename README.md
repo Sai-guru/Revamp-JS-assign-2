@@ -1,5 +1,4 @@
 # Revamp JS Assign 2
-(https://deepwiki.com/Sai-guru/Revamp-JS-assign-2)
 
 This project is a simple web application that demonstrates user authentication functionalities using Firebase. It includes user registration, login, and password update features, styled with Tailwind CSS.
 
